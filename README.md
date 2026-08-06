@@ -10,7 +10,7 @@ Computer Science & Engineering (AI & ML) Student | Aspiring AI Engineer | Lifelo
 • 🌱 Currently learning Python, Data Structures & Algorithms, Machine Learning, Data Science, and Web Development
 • 🚀 Building real-world projects to strengthen my development skills
 • 💡 Passionate about solving practical problems using AI and technology
-• 🎯 Goal: Become a skilled Software Engineer / AI Engineer and contribute to impactful projects
+• 🎯 Goal: Become a skilled AI Engineer and contribute to impactful projects
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -24,11 +24,16 @@ Computer Science & Engineering (AI & ML) Student | Aspiring AI Engineer | Lifelo
 • 💼 Preparing for internships and open-source contributions
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🚀 Projects
 
+📈 Student Performance Dashboard
+Python • Pandas • Data Visualization
+🌦️ Weather Dashboard
+Python • API • JSON
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 🚀 Upcoming Projects
 
-• 📈 Student Performance Dashboard
-• 🌦️ Weather Dashboard
 • 📄 AI Resume Analyzer
 • 👤 Face Recognition Attendance System
 • 🌱 Crop Disease Detection
