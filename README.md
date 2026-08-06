@@ -24,6 +24,7 @@ Computer Science & Engineering (AI & ML) Student | Aspiring AI Engineer | Lifelo
 • 💼 Preparing for internships and open-source contributions
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 Projects
 
 📈 Student Performance Dashboard
@@ -32,6 +33,7 @@ Python • Pandas • Data Visualization
 Python • API • JSON
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 🚀 Upcoming Projects
 
 • 📄 AI Resume Analyzer
